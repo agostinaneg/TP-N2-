@@ -17,9 +17,9 @@ int main() {
 
     cout << "Vector invertido:";
 
-    for(int n : numeros) {
+    for(int A : numeros) {
 
-        cout << n << " ";
+        cout << A << " ";
     }
 
     return 0;
